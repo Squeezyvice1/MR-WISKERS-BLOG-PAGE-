@@ -10,5 +10,9 @@
         <img src= ""https://cdn.freecodecamp.org/curriculum/css-photo-gallery/1.jpg" alt="a cat peacefully
 sleeping">
       <figcaption>Mr. Whiskers sleeping</figcaption></Figure>
+      <nav><ul>
+  <li></li>
+  <li></li>
+  <li></li></ul></nav>
     </header>
   </body>
