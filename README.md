@@ -11,8 +11,9 @@
 sleeping">
       <figcaption>Mr. Whiskers sleeping</figcaption></Figure>
       <nav><ul>
-  <li></li>
-  <li></li>
-  <li></li></ul></nav>
+          <li><a href="#about">About</a></li>
+          <li><a href="#posts">Posts</a></li>
+          <li><a href="#contact">Contact</a></li>
+      </ul></nav>
     </header>
   </body>
