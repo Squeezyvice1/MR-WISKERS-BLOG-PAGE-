@@ -16,4 +16,7 @@ sleeping">
           <li><a href="#contact">Contact</a></li>
       </ul></nav>
     </header>
+    <main>
+      <section id="about> <h2>about</h2> </section>
+    </main>
   </body>
