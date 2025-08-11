@@ -21,5 +21,6 @@ sleeping">
           <p>Hi there! I'm Jane Doe, a passionate writer who finds endless inspiration in the antics of my beloved cat, Mr. Whiskers.</p>
         <p> His playful nature and boundless energy keeps me on my toes. I love him so much.    </p>
         </section>
+        <section id="posts"> <h2>Posts</h2> </section> 
     </main>
   </body>
