@@ -17,6 +17,9 @@ sleeping">
       </ul></nav>
     </header>
     <main>
-      <section id="about> <h2>about</h2> </section>
+      <section id="about> <h2>about</h2>
+          <p>Hi there! I'm Jane Doe, a passionate writer who finds endless inspiration in the antics of my beloved cat, Mr. Whiskers.</p>
+        <p> His playful nature and boundless energy keeps me on my toes. I love him so much.    </p>
+        </section>
     </main>
   </body>
