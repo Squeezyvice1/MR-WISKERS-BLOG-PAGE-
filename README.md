@@ -61,7 +61,7 @@ sleeping">
       <section id="contact"> <h2>Contact</h2> </section>
         <address>
             <p>Phone:<a href="tel:5555555555">555-555-5555</a></p>
-          <p>Email: fake@email.com</p>
+          <p>Email::<a href="mailto:fake@email.com">fake@email.com</a></p>
         </address>  
     </footer>
   </body>
