@@ -56,4 +56,12 @@ sleeping">
   quibusdam dolorum quia nemo repudiandae quidem voluptatum quas.</p> </article>
       </section> 
     </main>
+    <footer> <p>No Copyright </p></footer>   
+      <footer>
+      <section id="contact"> <h2>Contact</h2> </section>
+        <address>
+            <p>Phone:<a href="tel:5555555555">555-555-5555</a></p>
+          <p>Email: fake@email.com</p>
+        </address>  
+    </footer>
   </body>
